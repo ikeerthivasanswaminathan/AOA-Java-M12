@@ -28,6 +28,7 @@ Only one job can be done at a time
 Your goal is to maximize total profit while completing the maximum number of jobs possible within their deadlines.
 
 ## Algorithm
+
 1. Input: Read the number of jobs n. For each job, read: id → unique job identifier. deadline → latest time by which the job should be completed. profit → profit gained if the job is completed before or on its deadline
 
 2. Sort Jobs by Profit: Sort all jobs in descending order of profit (highest profit first). This ensures we pick the most profitable jobs before less profitable ones.
@@ -60,9 +61,9 @@ Break (move to next job).
 
 Program to implement Reverse a String
 
-Developed by: Rajalakshmi R
+Developed by: KEERTHIVASAN S
 
-Register Number:212223110037
+Register Number: 212223220046
 
 ```
 import java.util.*;
