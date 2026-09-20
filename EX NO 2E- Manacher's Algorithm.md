@@ -1,6 +1,6 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 
-## DATE:08/09/25
+## DATE: 22/07/2026
 
 ## AIM:
 To write a Java program for the following constraints. Longest Palindromic Substring. Given a string s, return the longest palindromic substring in s using Manacher's Algorithm
