@@ -79,7 +79,7 @@ public class NaivePatternSearch {
 
 ## Output:
 
-<img width="750" height="253" alt="image" src="https://github.com/user-attachments/assets/273d112b-52e2-4543-9b94-b83b70c05828" />
+<img width="750" height="253" alt="m12-t4op" src="https://github.com/user-attachments/assets/62a1c4f3-1838-426c-b894-d9dd27b3d6df" />
 
 ## Result:
-The program successfully implemented and the expected output is verified.
+Thus, the program successfully implemented and the expected output is verified.
